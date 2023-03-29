@@ -8,5 +8,5 @@
 请自行购买，或者访问[这里购买](https://i.gouyongquan.cn/#/goods?goods_id=16545)
 
 
-#关于代理
-安装 clash 后确保可访问 openai.com 即可
+# 关于代理
+安装 [clash](https://github.com/Fndroid/clash_for_windows_pkg/releases/) 后确保可访问 openai.com 即可
