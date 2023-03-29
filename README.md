@@ -10,3 +10,7 @@
 
 # 关于代理
 安装 [clash](https://github.com/Fndroid/clash_for_windows_pkg/releases/) 后确保可访问 openai.com 即可
+
+# 运行截图
+
+ ![img](/ui.png)
